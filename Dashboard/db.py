@@ -4,9 +4,9 @@ import pandas as pd
 def get_connection():
     return mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="Rahasia12!",
-        database="job_info"
+        user="xxx",
+        password="xxx!",
+        database="xxx"
     )
 
 def fetch_data():
