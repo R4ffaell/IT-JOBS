@@ -61,8 +61,6 @@ job-market-analysis/
 
 
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## ✨ Acknowledgments
 - **Streamlit** for making data apps easy.
