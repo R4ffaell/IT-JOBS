@@ -55,6 +55,11 @@ job-market-analysis/
 
 ![image](https://github.com/user-attachments/assets/d9090890-1e40-4935-a7ee-1e4487b773d8)
 
+![image](https://github.com/user-attachments/assets/d01f55c5-ed55-4517-991c-7024031178c1)
+
+![image](https://github.com/user-attachments/assets/b3618cd6-4c86-46d8-84ed-40379f266dbc)
+
+
 
 ## 📜 License
 This project is licensed under the **MIT License**.
